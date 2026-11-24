@@ -2,12 +2,6 @@
 
 Follow [CONTRIBUTING.md](CONTRIBUTING.md) for repository changes and [REVIEWING.md](REVIEWING.md) for reviews.
 
-## Branches and commit messages
-
-- Name branches for the change (`feat/…`, `fix/…`, `docs/…`, `chore/…`), never after an AI tool (`claude/…`, `codex/…`).
-- Squash-merge pull requests with the title `<PR title> (#number)`, so no "Merge pull request … from <branch>" line lands in history.
-- Keep tool names (Claude, Codex) and words about how the work was done ("agent", "session") out of commit messages, PR titles and bodies, and records in docs. Say what changed and why. No `Co-authored-by` or session trailers for AI tools.
-
 ## PR preparation
 
 Before requesting final review, follow the scoped [PR improvement check](CONTRIBUTING.md#pr-improvement-check) using the project Skills when applicable.
